@@ -1,23 +1,25 @@
 # Python Calculator
 
-A lightweight command-line calculator written in Python.
+A lightweight command-line calculator built with Python. This project demonstrates core programming fundamentals through a focused, easy-to-read implementation.
 
 ## Features
 
 - Basic arithmetic operations
-- Simple CLI interface
-- Minimal, easy-to-understand implementation
+- Simple command-line interaction
+- Minimal implementation suited to learning and extension
 
 ## Run
+
+Requires Python 3.
 
 ```bash
 python calculator.py
 ```
 
-## Purpose
+## Project focus
 
-A small project focused on Python fundamentals, control flow, functions, and input handling.
+This project explores control flow, functions, and input handling in Python.
 
 ## Author
 
-**AppForge097**
+Built by [@AppForge097](https://github.com/AppForge097).
